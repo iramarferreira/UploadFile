@@ -6,7 +6,7 @@ import org.hibernate.annotations.GenericGenerator;
 import javax.persistence.*;
 import java.util.UUID;
 
-// Anotações lombook
+// Anotações lombok
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
